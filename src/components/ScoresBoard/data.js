@@ -2,7 +2,7 @@ export const teams = [
     {
         id:1,
         clubName:'Barcelona',
-        img:"https://cdn.freebiesupply.com/logos/thumbs/2x/fc-barcelona-logo.png",
+        img:'https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png',
         vote:0
     },
     {
